@@ -1,0 +1,6 @@
+
+State Machine - |top_level|game_core:u_game_core|current_state
+Name current_state.GAME_OVER current_state.PLAYING current_state.IDLE 
+current_state.IDLE 0 0 0 
+current_state.PLAYING 0 1 1 
+current_state.GAME_OVER 1 0 1 
