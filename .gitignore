@@ -1,0 +1,12 @@
+# Quartus build artifacts
+db/
+incremental_db/
+output_files/
+*.qws
+
+# Quartus temp/log
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
